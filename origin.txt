@@ -1,1 +1,2 @@
 git push origin.txt pull
+push orgin
